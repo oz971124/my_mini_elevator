@@ -1,0 +1,5 @@
+../Core/Src/stepmotor.c:27:6:set_rpm	1
+../Core/Src/stepmotor.c:34:6:stepmotor_main_test	11
+../Core/Src/stepmotor.c:65:6:step_test	5
+../Core/Src/stepmotor.c:93:6:stepmotor_driver	12
+../Core/Src/stepmotor.c:162:6:stepmotor_driver_test	9
